@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Kinematics",
+    "\\Module",
+    "\\Robot",
+    "\\RobotFrame",
+    "\\Serial",
+    "\\stm32",
+    "\\user"
+  ],
+  "SelectedNode": "\\RobotFrame\\Frame.c",
+  "PreviewInSolutionExplorer": false
+}
